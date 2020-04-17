@@ -1,0 +1,29 @@
+{
+    "topUsers": [
+        {
+            "id": "0",
+            "name": "vanyaks",
+            "bestTime": "200"
+        },
+        {
+            "id": "1",
+            "name": "nameWritten",
+            "bestTime": "205"
+        },
+        {
+            "id": "2",
+            "name": "nameWritten",
+            "bestTime": "210"
+        },
+        {
+            "id": "3",
+            "name": "nameWritten",
+            "bestTime": "220"
+        },
+        {
+            "id": "4",
+            "name": "nameWritten",
+            "bestTime": "230"
+        }
+    ]
+}
